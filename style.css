@@ -1,0 +1,39 @@
+html {
+  font-family: "Cantarell", sans-serif;
+}
+
+h1 {
+  color: blue;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+h2 {
+  color: green;
+  font-family: "Bebas Neue", sans-serif;
+
+}
+
+p {
+  color: purple;
+}
+
+.mono {
+  font-family: "Micro 5", monospace;
+  font-size: 30px;
+}
+
+p.special {
+  color: red;
+}
+
+.special {
+  color: yellow;
+}
+
+p#important {
+  color: aqua;
+}
+
+#important {
+  color: orange;
+}
